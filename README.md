@@ -9,12 +9,6 @@ The codes cover basic Java concepts, simple problem-solving exercises, and found
 - Basic operations with methods and constructors
 - Simple problem-solving exercises
 
-## How to Run
-1. Make sure Java (JDK) is installed on your system.
-2. Clone or download the repository.
-3. Open any `.java` file in an IDE (like IntelliJ IDEA, Eclipse) or text editor.
-4. Compile and run the programs using the terminal or IDE.
-
 
 
 
