@@ -4,7 +4,7 @@ This repository contains Java practice programs developed during my training at 
 The codes cover basic Java concepts, simple problem-solving exercises, and foundational topics essential for building strong programming skills.
 
 ## Contents
-- String manipulation programs
+-array manipulation 
 - Class and Object examples
 - Basic operations with methods and constructors
 - Simple problem-solving exercises
