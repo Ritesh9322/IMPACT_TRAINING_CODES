@@ -6,9 +6,11 @@ public class Armstrong_no {
         System.out.println("Enter no:");
         int num=in.nextInt();
 
+        
         int temp=num;
         int sum=0;
         int count=0;
+        
 
         while (temp!=0){
             temp=temp%10;
@@ -23,8 +25,8 @@ public class Armstrong_no {
 
 
         }
+        
         System.out.println(sum);
-
 
 
     }
